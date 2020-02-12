@@ -1,0 +1,12 @@
+.showFooter {
+    color: lightblue;
+    text-align: center;
+    padding: 5px;
+    border: solid 5px black;
+    border-radius: 10px;
+   
+   
+}
+.behindFooter {
+    background-image: url(../assets/stars-1436950_960_720.webp);
+}

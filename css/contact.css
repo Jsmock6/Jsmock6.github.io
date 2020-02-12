@@ -1,0 +1,16 @@
+#contact {
+    background-color: lightblue;
+    border: double 10px darkolivegreen;
+    border-radius: 150px;
+    margin: auto;
+    width: 1400px;
+    height: fit-content;
+    font-family: var(--heading-font);
+    
+
+    
+}
+.behindContact {
+    background-image: url(../assets/stars-1436950_960_720.webp);
+    padding: 50px;
+}

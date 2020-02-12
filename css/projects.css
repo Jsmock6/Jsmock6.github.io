@@ -1,0 +1,45 @@
+h1 {
+    font-family: var(--heading-font);
+    color: var(--black);
+    
+}
+#projects {
+    text-align: center;
+    padding: 20px;
+    color: white;
+    background-image: url(../assets/stars-1436950_960_720.webp);
+    text-shadow: 0 5px 9px #0A0ACC;
+    
+   
+
+    
+}
+#projectsTwo {
+    background-color: black;
+    color: cornsilk;
+    text-align: center;
+    
+}
+
+.projectOne {
+    border: solid 5px white;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 5px solid transparent;
+    border-image: linear-gradient(to right,blue, darkgreen, purple, red , yellow);
+    border-image-slice: 1;
+    margin: auto;
+    display: block;
+    color: lightblue;
+    padding: 20px;
+    min-height: 30vh;
+    
+    
+    
+
+}
+.projectOne a {
+    overflow-wrap: break-word;
+    
+}
+

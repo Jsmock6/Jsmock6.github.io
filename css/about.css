@@ -1,0 +1,28 @@
+#about {
+    text-align: center;
+    border-style: double;
+    border-width: 10px;
+    width: fit-content;
+    border-color: darkolivegreen;
+    background-color: lightblue;
+    background-size: 50vh;
+    color: black;
+    border-radius: 150px;
+    margin: auto;
+    
+    
+    
+    
+    
+}
+.aboutmepicture {
+    margin: auto;
+    background: url(../assets/climber-aboutme.jpg)center;
+    height: 250px;
+    width: 200px;
+    background-size: cover;
+}
+.spaceBetweenTwo {
+    background-image: url(../assets/stars-1436950_960_720.webp);
+}
+

@@ -1,0 +1,12 @@
+:root {
+    --brown: #6D6656;
+    --grey: #53565A;
+    --black: #272727;
+
+    --heading-font: 'haydes';
+}
+
+@font-face {
+    font-family: 'haydes';
+    src :url('../assets/Haydes.ttf')
+}

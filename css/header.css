@@ -1,0 +1,31 @@
+.jumbotron {
+    background-image: url(../assets/bluegreenmountains.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    height: 85vh;
+    text-align: center;
+    
+    text-shadow: 0 5px 3px #000000;
+    border-bottom: 5px double transparent;
+    border-image: linear-gradient(to right,blue, darkgreen, purple, red , yellow);
+    border-image-slice: 1;
+}
+.linkUnderName {
+    padding: 20px;
+    text-decoration-color: white;
+}
+.linkUnderNameTwo {
+    padding: 20px;
+    
+}
+.jumbotron a{
+    color: whitesmoke;
+    
+}
+.hoverBoi {
+    color: cornsilk;
+}
+.hoverBoi:hover {
+    color: darkolivegreen;
+}
