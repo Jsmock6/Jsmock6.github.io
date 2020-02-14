@@ -27,7 +27,7 @@ h1 {
     padding: 10px;
     box-sizing: border-box;
     border: 10px solid transparent;
-    border-image: linear-gradient(to right,darkslateblue, purple, red , gold);
+    border-image: linear-gradient(to right,darkslateblue, purple, red , goldenrod);
     border-image-slice: 1;
     margin: auto;
     display: block;
@@ -40,7 +40,7 @@ h1 {
     padding: 10px;
     box-sizing: border-box;
     border: 10px solid transparent;
-    border-image: linear-gradient(to right,gold, red, purple, darkslateblue);
+    border-image: linear-gradient(to right,goldenrod, red, purple, darkslateblue);
     border-image-slice: 1;
     margin: auto;
     display: block;

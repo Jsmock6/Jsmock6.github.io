@@ -8,7 +8,7 @@
     
     text-shadow: 0 5px 3px #000000;
     border-bottom: 10px double transparent;
-    border-image: linear-gradient(to right,darkslateblue, purple, red , gold);
+    border-image: linear-gradient(to right,darkslateblue, purple, red , goldenrod);
     border-image-slice: 1;
 }
 .linkUnderName {
@@ -25,7 +25,8 @@
 }
 .hoverBoi {
     color: cornsilk;
+    opacity: ;
 }
 .hoverBoi:hover {
-    color: darkolivegreen;
+    color: darkslateblue;
 }
