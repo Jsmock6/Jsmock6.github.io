@@ -1,6 +1,7 @@
 h1 {
     font-family: var(--heading-font);
     color: var(--black);
+    font-size: x-large;
     
 }
 #projects {
@@ -25,19 +26,30 @@ h1 {
     border: solid 5px white;
     padding: 10px;
     box-sizing: border-box;
-    border: 5px solid transparent;
-    border-image: linear-gradient(to right,blue, darkgreen, purple, red , yellow);
+    border: 10px solid transparent;
+    border-image: linear-gradient(to right,darkslateblue, purple, red , gold);
     border-image-slice: 1;
     margin: auto;
     display: block;
     color: lightblue;
     padding: 20px;
-    min-height: 30vh;
-    
-    
-    
-
+    min-height: 40vh;
 }
+.projectTwo {
+    border: solid 5px white;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 10px solid transparent;
+    border-image: linear-gradient(to right,gold, red, purple, darkslateblue);
+    border-image-slice: 1;
+    margin: auto;
+    display: block;
+    color: lightblue;
+    padding: 20px;
+    min-height: 40vh;
+}
+
+
 .projectOne a {
     overflow-wrap: break-word;
     

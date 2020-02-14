@@ -1,5 +1,5 @@
 .jumbotron {
-    background-image: url(../assets/bluegreenmountains.jpg);
+    background-image: url(../assets/person\ on\ snow.jpg);
     background-size: cover;
     background-position: center;
     color: white;
@@ -7,8 +7,8 @@
     text-align: center;
     
     text-shadow: 0 5px 3px #000000;
-    border-bottom: 5px double transparent;
-    border-image: linear-gradient(to right,blue, darkgreen, purple, red , yellow);
+    border-bottom: 10px double transparent;
+    border-image: linear-gradient(to right,darkslateblue, purple, red , gold);
     border-image-slice: 1;
 }
 .linkUnderName {
