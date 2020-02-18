@@ -7,9 +7,9 @@ h1 {
 #projects {
     text-align: center;
     padding: 20px;
-    color: white;
+    color: rgb(235, 210, 210);
     background-image: url(../assets/stars-1436950_960_720.webp);
-    text-shadow: 0 5px 9px #0A0ACC;
+    /* text-shadow: 0 5px 9px #0A0ACC; */
     
    
 
@@ -17,26 +17,31 @@ h1 {
 }
 #projectsTwo {
     background-color: black;
-    color: cornsilk;
+    color: rgb(235, 210, 210);
     text-align: center;
     
 }
 
 .projectOne {
-    border: solid 5px white;
+    /* border: solid 5px white; */
     padding: 10px;
     box-sizing: border-box;
     border: 10px solid transparent;
     border-image: linear-gradient(to right,darkslateblue, purple, red , goldenrod);
     border-image-slice: 1;
-    margin: auto;
+    /* margin: 10%; */
     display: block;
-    color: lightblue;
-    padding: 20px;
+    color: black;
+    /* padding: 20px; */
     min-height: 40vh;
+    background-color: mediumpurple;
+    opacity: .9;
+    margin: auto;
+    
+  
 }
 .projectTwo {
-    border: solid 5px white;
+    /* border: solid 5px white; */
     padding: 10px;
     box-sizing: border-box;
     border: 10px solid transparent;
@@ -44,14 +49,20 @@ h1 {
     border-image-slice: 1;
     margin: auto;
     display: block;
-    color: lightblue;
-    padding: 20px;
+    color: black;
+    /* padding: 20px; */
     min-height: 40vh;
+    background-color: mediumpurple;
+    opacity: .9;
+    /* margin: 10%; */
 }
 
 
 .projectOne a {
     overflow-wrap: break-word;
     
+}
+.linkColor {
+    color: darkslateblue;
 }
 

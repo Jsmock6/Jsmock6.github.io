@@ -2,7 +2,7 @@
     background-image: url(../assets/person\ on\ snow.jpg);
     background-size: cover;
     background-position: center;
-    color: white;
+    color: rgb(235, 210, 210);
     height: 85vh;
     text-align: center;
     
@@ -10,22 +10,24 @@
     border-bottom: 10px double transparent;
     border-image: linear-gradient(to right,darkslateblue, purple, red , goldenrod);
     border-image-slice: 1;
+    
+    
 }
 .linkUnderName {
     padding: 20px;
-    text-decoration-color: white;
+    text-decoration-color: rgb(235, 210, 210);
 }
 .linkUnderNameTwo {
     padding: 20px;
     
 }
 .jumbotron a{
-    color: whitesmoke;
+    color: rgb(235, 210, 210);
     
 }
 .hoverBoi {
-    color: cornsilk;
-    opacity: ;
+    color: rgb(235, 210, 210);
+    opacity: .7;
 }
 .hoverBoi:hover {
     color: darkslateblue;
